@@ -1,6 +1,6 @@
 'use client';
-import { send } from 'process';
-import React, { useEffect, useState } from 'react';
+
+import React, { useState } from 'react';
 
 type Form = {
   name: string;
